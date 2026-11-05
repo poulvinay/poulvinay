@@ -1,19 +1,19 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&height=80&lines=Hi+there,+I'm+Vinay+Poul;AI+Software+Developer;Master+of+Computer+Applications;Passionate+About+Data+Science" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&height=80&lines=Hi+there,+I'm+Vinay+Poul;AI+Software+Developer;Master+of+Computer+Applications;Passionate+About+AI" alt="Typing SVG" />
 </div>
 
 <p align="center">
   <a href="https://github.com/poulvinay"><img src="https://komarev.com/ghpvc/?username=poulvinay&label=Profile+Views&color=0ea5e9&style=for-the-badge" alt="poulvinay views" /></a>
   <a href="https://linkedin.com/in/vinay-poul"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:thepoulvinay@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://thevinay.pythonanywhere.com/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://poulvinay.github.io/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 <p align="justify">
-I'm a passionate <strong>AI Software Developer</strong> currently working at <a href="https://infotech.works" target="_blank">Infotech.Works</a>, crafting intelligent solutions with LLMs, Vector Databases, and modern web technologies. I am pursuing my <strong>Master of Computer Applications (MCA)</strong> at M.S. Bidve Engineering College and was recently recognized with the <strong>Extra Millar Award</strong> for my contributions. When I'm not coding, I enjoy exploring new tech and watching Marvel movies! 🚀
+I'm a passionate <strong>AI Software Developer</strong> currently working at <a href="https://infotech.works" target="_blank">Infotech.Works</a>, crafting intelligent solutions with LLMs, Vector Databases, and modern web technologies. I am pursuing my <strong>Master of Computer Applications (MCA)</strong> at M.S. Bidve Engineering College and was recognized with the <strong>Extra Millar Award</strong> for my contributions. When I'm not coding, I enjoy exploring new tech and watching Marvel movies! 🚀
 </p>
 
 ---
@@ -45,28 +45,15 @@ I'm a passionate <strong>AI Software Developer</strong> currently working at <a 
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=poulvinay&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=poulvinay&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=poulvinay&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=poulvinay&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=poulvinay&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Top Languages" />
 </div>
 
 ---
 
 ### 🏆 Certifications & Projects
 - 🏅 **Certifications:** 16+ Certifications including Data Science, AI, and Backend Development.
-- 🚀 **Projects:** Built several GUI applications, AI Interfaces, and Web Apps using Python and modern web frameworks. Check out my repositories for more details!
-
----
+- 🚀 **Projects:** Built several SAAS applications, AI Interfaces, and Web Apps using Python, Rails, Shopify. Laravel and Tools. Check out my repositories for more details!
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=footer" width="100%"/>
